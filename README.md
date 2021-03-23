@@ -1,6 +1,6 @@
 # pgbackrest_doc_fr
 Traduction française de la documentation de pgBackRest
-Stratus du projet : WIP
+Status du projet : WIP
 
 ## les différents répertoires
 ### Répertoire docs
